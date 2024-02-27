@@ -1,1 +1,1 @@
-# libclang-extract-functions-from-C-C-
+# libclang-extract-functions-from-C/C++
